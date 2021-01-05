@@ -39,16 +39,24 @@ other nice ideas can be found here: https://www.youtube.com/watch?t=107&v=n6d4KH
 <img align="left" style="padding-right: 12px" alt="Spring-Boot" width="32px" src="https://github.com/github/explore/raw/master/topics/spring-boot/spring-boot.png" />
 <img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://github.com/github/explore/raw/master/topics/typescript/typescript.png" />
 
-#### :zap: Recent GitHub Activity
+<br/>
+<br/>
+
+### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 
-#### :chart_with_upwards_trend: GitHub Stats
+<br/>
+<br/>
+
+### :chart_with_upwards_trend: GitHub Stats
 
 <img align="left" alt="SamuelCabralCruz's GitHub Stats" src="https://github-readme-stats-one-silk.vercel.app/api?username=SamuelCabralCruz&theme=cobalt&show_icons=true&count_private=true" />
-
-#### :writing_hand: Top Languages
-
+<br/>
+<br/>
 <img align="left" alt="SamuelCabralCruz's Top Languages" src="https://github-readme-stats-one-silk.vercel.app/api/top-langs/?username=SamuelCabralCruz&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+
+<br/>
+<br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSamuelCabralCruz%2FSamuelCabralCruz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
