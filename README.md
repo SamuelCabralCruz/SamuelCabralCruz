@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working at **Ingeno**.
 
-<!--START_SECTION:activity-->
-
 <!--
 **SamuelCabralCruz/SamuelCabralCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,12 +17,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+other nice ideas can be found here: https://www.youtube.com/watch?t=107&v=n6d4KHSKqGk&feature=youtu.be
 -->
 
----
-![Samuel's github stats](https://github-readme-stats-one-silk.vercel.app/api?username=SamuelCabralCruz&theme=cobalt&show_icons=true&count_private=true)
-
----
 ### Languages & Tools
 
 <img align="left" style="padding-right: 12px" alt="AWS" width="32px" src="https://github.com/github/explore/raw/master/topics/aws/aws.png" />
@@ -43,10 +39,25 @@ Here are some ideas to get you started:
 <img align="left" style="padding-right: 12px" alt="Spring-Boot" width="32px" src="https://github.com/github/explore/raw/master/topics/spring-boot/spring-boot.png" />
 <img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://github.com/github/explore/raw/master/topics/typescript/typescript.png" />
 
-<br />
-<br />
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 
-[![Top Langs](https://github-readme-stats-one-silk.vercel.app/api/top-langs/?username=SamuelCabralCruz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <!--START_SECTION:activity-->
 
+</details>
+
+<details>
+  <summary>:chart_with_upwards_trend: GitHub Stats</summary>
+
+  <img align="left" alt="SamuelCabralCruz's GitHub Stats" src="https://github-readme-stats-one-silk.vercel.app/api?username=SamuelCabralCruz&theme=cobalt&show_icons=true&count_private=true" />
+
+</details>
+
+<details>
+  <summary>:writing_hand: Top Languages</summary>
+
+  <img align="left" alt="SamuelCabralCruz's Top Languages" src="https://github-readme-stats-one-silk.vercel.app/api/top-langs/?username=SamuelCabralCruz&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+
+</details>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSamuelCabralCruz%2FSamuelCabralCruz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
