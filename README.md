@@ -39,25 +39,16 @@ other nice ideas can be found here: https://www.youtube.com/watch?t=107&v=n6d4KH
 <img align="left" style="padding-right: 12px" alt="Spring-Boot" width="32px" src="https://github.com/github/explore/raw/master/topics/spring-boot/spring-boot.png" />
 <img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://github.com/github/explore/raw/master/topics/typescript/typescript.png" />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+#### :zap: Recent GitHub Activity
 
-  <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 
-</details>
+#### :chart_with_upwards_trend: GitHub Stats
 
-<details>
-  <summary>:chart_with_upwards_trend: GitHub Stats</summary>
+<img align="left" alt="SamuelCabralCruz's GitHub Stats" src="https://github-readme-stats-one-silk.vercel.app/api?username=SamuelCabralCruz&theme=cobalt&show_icons=true&count_private=true" />
 
-  <img align="left" alt="SamuelCabralCruz's GitHub Stats" src="https://github-readme-stats-one-silk.vercel.app/api?username=SamuelCabralCruz&theme=cobalt&show_icons=true&count_private=true" />
+#### :writing_hand: Top Languages
 
-</details>
-
-<details>
-  <summary>:writing_hand: Top Languages</summary>
-
-  <img align="left" alt="SamuelCabralCruz's Top Languages" src="https://github-readme-stats-one-silk.vercel.app/api/top-langs/?username=SamuelCabralCruz&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-
-</details>
+<img align="left" alt="SamuelCabralCruz's Top Languages" src="https://github-readme-stats-one-silk.vercel.app/api/top-langs/?username=SamuelCabralCruz&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSamuelCabralCruz%2FSamuelCabralCruz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
