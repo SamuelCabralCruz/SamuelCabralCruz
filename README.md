@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working at **Ingeno**.
 
+<!--START_SECTION:activity-->
+
 <!--
 **SamuelCabralCruz/SamuelCabralCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
