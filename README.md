@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=SamuelCabralCruz&theme=cobalt&show_icons=true&count_private=true)
+![Samuel's github stats](https://github-readme-stats-one-silk.vercel.app/api?username=SamuelCabralCruz&theme=cobalt&show_icons=true&count_private=true)
 
 ---
 ### Languages & Tools
@@ -28,9 +28,12 @@ Here are some ideas to get you started:
 <img align="left" style="padding-right: 12px" alt="AWS" width="32px" src="https://github.com/github/explore/raw/master/topics/aws/aws.png" />
 <img align="left" style="padding-right: 12px" alt="Clojure" width="32px" src="https://github.com/github/explore/raw/master/topics/clojure/clojure.png" />
 <img align="left" style="padding-right: 12px" alt="Docker" width="32px" src="https://github.com/github/explore/raw/master/topics/docker/docker.png" />
+<img align="left" style="padding-right: 12px" alt="GraphQL" width="32px" src="https://github.com/github/explore/raw/master/topics/graphql/graphql.png" />
 <img align="left" style="padding-right: 12px" alt="Java" width="32px" src="https://github.com/github/explore/raw/master/topics/java/java.png" />
+<img align="left" style="padding-right: 12px" alt="Javascript" width="32px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />
 <img align="left" style="padding-right: 12px" alt="Kotlin" width="32px" src="https://github.com/github/explore/raw/master/topics/kotlin/kotlin.png" />
 <img align="left" style="padding-right: 12px" alt="LaTeX" width="32px" src="https://github.com/github/explore/raw/master/topics/latex/latex.png" />
+<img align="left" style="padding-right: 12px" alt="NodeJS" width="32px" src="https://github.com/github/explore/raw/master/topics/nodejs/nodejs.png" />
 <img align="left" style="padding-right: 12px" alt="Python" width="32px" src="https://github.com/github/explore/raw/master/topics/python/python.png" />
 <img align="left" style="padding-right: 12px" alt="Rails" width="32px" src="https://github.com/github/explore/raw/master/topics/rails/rails.png" />
 <img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/master/topics/react/react.png" />
@@ -41,7 +44,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCabralCruz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-silk.vercel.app/api/top-langs/?username=SamuelCabralCruz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSamuelCabralCruz%2FSamuelCabralCruz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
