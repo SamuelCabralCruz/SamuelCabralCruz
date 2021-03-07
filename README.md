@@ -46,7 +46,7 @@ other nice ideas can be found here: https://www.youtube.com/watch?t=107&v=n6d4KH
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/SamuelCabralCruz/unresolved-review-threads/pull/4) in [SamuelCabralCruz/unresolved-review-threads](https://github.com/SamuelCabralCruz/unresolved-review-threads)
+1. 💪 Opened PR [#8](https://github.com/SamuelCabralCruz/unresolved-review-threads/pull/8) in [SamuelCabralCruz/unresolved-review-threads](https://github.com/SamuelCabralCruz/unresolved-review-threads)
 <!--END_SECTION:activity-->
 
 ### :chart_with_upwards_trend: GitHub Stats
