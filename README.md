@@ -23,23 +23,27 @@ other nice ideas can be found here: https://www.youtube.com/watch?t=107&v=n6d4KH
 
 ### Languages & Tools
 
-<img align="left" style="padding-right: 12px" alt="AWS" width="32px" src="https://github.com/github/explore/raw/master/topics/aws/aws.png" />
-<img align="left" style="padding-right: 12px" alt="Clojure" width="32px" src="https://github.com/github/explore/raw/master/topics/clojure/clojure.png" />
-<img align="left" style="padding-right: 12px" alt="Docker" width="32px" src="https://github.com/github/explore/raw/master/topics/docker/docker.png" />
-<img align="left" style="padding-right: 12px" alt="GraphQL" width="32px" src="https://github.com/github/explore/raw/master/topics/graphql/graphql.png" />
-<img align="left" style="padding-right: 12px" alt="Java" width="32px" src="https://github.com/github/explore/raw/master/topics/java/java.png" />
-<img align="left" style="padding-right: 12px" alt="Javascript" width="32px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />
-<img align="left" style="padding-right: 12px" alt="Kotlin" width="32px" src="https://github.com/github/explore/raw/master/topics/kotlin/kotlin.png" />
-<img align="left" style="padding-right: 12px" alt="LaTeX" width="32px" src="https://github.com/github/explore/raw/master/topics/latex/latex.png" />
-<img align="left" style="padding-right: 12px" alt="NodeJS" width="32px" src="https://github.com/github/explore/raw/master/topics/nodejs/nodejs.png" />
-<img align="left" style="padding-right: 12px" alt="Python" width="32px" src="https://github.com/github/explore/raw/master/topics/python/python.png" />
-<img align="left" style="padding-right: 12px" alt="Rails" width="32px" src="https://github.com/github/explore/raw/master/topics/rails/rails.png" />
-<img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/master/topics/react/react.png" />
-<img align="left" style="padding-right: 12px" alt="Ruby" width="32px" src="https://github.com/github/explore/raw/master/topics/ruby/ruby.png" />
-<img align="left" style="padding-right: 12px" alt="Spring-Boot" width="32px" src="https://github.com/github/explore/raw/master/topics/spring-boot/spring-boot.png" />
-<img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://github.com/github/explore/raw/master/topics/typescript/typescript.png" />
+<img align="left" style="padding-right: 12px" alt="AWS" width="32px" src="https://github.com/github/explore/raw/main/topics/aws/aws.png" />
+<img align="left" style="padding-right: 12px" alt="Clojure" width="32px" src="https://github.com/github/explore/raw/main/topics/clojure/clojure.png" />
+<img align="left" style="padding-right: 12px" alt="Docker" width="32px" src="https://github.com/github/explore/raw/main/topics/docker/docker.png" />
+<img align="left" style="padding-right: 12px" alt="GraphQL" width="32px" src="https://github.com/github/explore/raw/main/topics/graphql/graphql.png" />
+<img align="left" style="padding-right: 12px" alt="Java" width="32px" src="https://github.com/github/explore/raw/main/topics/java/java.png" />
+<img align="left" style="padding-right: 12px" alt="Javascript" width="32px" src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" />
+<img align="left" style="padding-right: 12px" alt="Kotlin" width="32px" src="https://github.com/github/explore/raw/main/topics/kotlin/kotlin.png" />
+<img align="left" style="padding-right: 12px" alt="LaTeX" width="32px" src="https://github.com/github/explore/raw/main/topics/latex/latex.png" />
+<img align="left" style="padding-right: 12px" alt="NodeJS" width="32px" src="https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png" />
+<img align="left" style="padding-right: 12px" alt="Python" width="32px" src="https://github.com/github/explore/raw/main/topics/python/python.png" />
+<img align="left" style="padding-right: 12px" alt="Rails" width="32px" src="https://github.com/github/explore/raw/main/topics/rails/rails.png" />
+<img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/main/topics/react/react.png" />
+<img align="left" style="padding-right: 12px" alt="Ruby" width="32px" src="https://github.com/github/explore/raw/main/topics/ruby/ruby.png" />
+<img align="left" style="padding-right: 12px" alt="Spring-Boot" width="32px" src="https://github.com/github/explore/raw/main/topics/spring-boot/spring-boot.png" />
+<img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" />
 
 <br/>
+
+### Certifications
+
+[<img class="cr-badges-full-badge__img" src="https://images.youracclaim.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner" width="340" height="340">](https://www.youracclaim.com/badges/0055d10f-68d3-4adf-9d0b-52edb83cf74b/public_url)
 
 ---
 
