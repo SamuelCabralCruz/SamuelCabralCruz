@@ -50,7 +50,7 @@ other nice ideas can be found here: https://www.youtube.com/watch?t=107&v=n6d4KH
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/SamuelCabralCruz/test/issues/7) in [SamuelCabralCruz/test](https://github.com/SamuelCabralCruz/test)
+1. 🗣 Commented on [#13](https://github.com/SamuelCabralCruz/unresolved-review-threads/issues/13) in [SamuelCabralCruz/unresolved-review-threads](https://github.com/SamuelCabralCruz/unresolved-review-threads)
 <!--END_SECTION:activity-->
 
 ### :chart_with_upwards_trend: GitHub Stats
