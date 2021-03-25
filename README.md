@@ -50,7 +50,7 @@ other nice ideas can be found here: https://www.youtube.com/watch?t=107&v=n6d4KH
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/SamuelCabralCruz/unresolved-review-threads/pull/46) in [SamuelCabralCruz/unresolved-review-threads](https://github.com/SamuelCabralCruz/unresolved-review-threads)
+1. 🗣 Commented on [#420](https://github.com/probot/settings/issues/420) in [probot/settings](https://github.com/probot/settings)
 <!--END_SECTION:activity-->
 
 ### :chart_with_upwards_trend: GitHub Stats
