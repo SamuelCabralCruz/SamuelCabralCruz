@@ -50,7 +50,7 @@ other nice ideas can be found here: https://www.youtube.com/watch?t=107&v=n6d4KH
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#231](https://github.com/streamich/fs-monkey/pull/231) in [streamich/fs-monkey](https://github.com/streamich/fs-monkey)
+1. 🗣 Commented on [#209](https://github.com/streamich/fs-monkey/issues/209) in [streamich/fs-monkey](https://github.com/streamich/fs-monkey)
 <!--END_SECTION:activity-->
 
 ### :chart_with_upwards_trend: GitHub Stats
