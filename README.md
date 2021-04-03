@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working at **Ingeno**.
 
+For more details, take a look to my CV (\href{./resume-en.pdf}{en} | \href{./resume-fr.pdf}{fr})
+
 <!--
 **SamuelCabralCruz/SamuelCabralCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
