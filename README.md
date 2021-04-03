@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working at **Ingeno**.
 
-For more details, take a look to my CV (\href{./resume-en.pdf}{en} | \href{./resume-fr.pdf}{fr})
-
 <!--
 **SamuelCabralCruz/SamuelCabralCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,6 +44,9 @@ other nice ideas can be found here: https://www.youtube.com/watch?t=107&v=n6d4KH
 ### Certifications
 
 [<img class="cr-badges-full-badge__img" src="https://images.youracclaim.com/size/220x220/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner" width="110" height="110">](https://www.youracclaim.com/badges/0055d10f-68d3-4adf-9d0b-52edb83cf74b/public_url)
+
+
+For more details, take a look to my CV ([en](./resume-en.pdf) | [fr](./resume-fr.pdf))
 
 ---
 
