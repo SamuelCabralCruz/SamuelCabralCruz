@@ -53,7 +53,7 @@ For more details, take a look to my CV ([EN](./resume-en.pdf) | [FR](./resume-fr
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#209](https://github.com/streamich/fs-monkey/issues/209) in [streamich/fs-monkey](https://github.com/streamich/fs-monkey)
+1. ❗️ Opened issue [#39](https://github.com/SamuelCabralCruz/sensei/issues/39) in [SamuelCabralCruz/sensei](https://github.com/SamuelCabralCruz/sensei)
 <!--END_SECTION:activity-->
 
 ### :chart_with_upwards_trend: GitHub Stats
