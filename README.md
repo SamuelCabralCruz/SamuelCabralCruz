@@ -53,7 +53,7 @@ For more details, take a look to my CV ([EN](./resume-en.pdf) | [FR](./resume-fr
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#39](https://github.com/SamuelCabralCruz/sensei/issues/39) in [SamuelCabralCruz/sensei](https://github.com/SamuelCabralCruz/sensei)
+1. 🎉 Merged PR [#54](https://github.com/SamuelCabralCruz/unresolved-review-threads/pull/54) in [SamuelCabralCruz/unresolved-review-threads](https://github.com/SamuelCabralCruz/unresolved-review-threads)
 <!--END_SECTION:activity-->
 
 ### :chart_with_upwards_trend: GitHub Stats
