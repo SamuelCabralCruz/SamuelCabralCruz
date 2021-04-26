@@ -53,7 +53,7 @@ For more details, take a look to my CV ([EN](./resume-en.pdf) | [FR](./resume-fr
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/SamuelCabralCruz/unresolved-review-threads/pull/57) in [SamuelCabralCruz/unresolved-review-threads](https://github.com/SamuelCabralCruz/unresolved-review-threads)
+1. ❌ Closed PR [#737](https://github.com/jpatokal/openflights/pull/737) in [jpatokal/openflights](https://github.com/jpatokal/openflights)
 <!--END_SECTION:activity-->
 
 ### :chart_with_upwards_trend: GitHub Stats
