@@ -53,7 +53,7 @@ For more details, take a look to my CV ([EN](./resume-en.pdf) | [FR](./resume-fr
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#737](https://github.com/jpatokal/openflights/pull/737) in [jpatokal/openflights](https://github.com/jpatokal/openflights)
+1. 🗣 Commented on [#198](https://github.com/act10ns/slack/issues/198) in [act10ns/slack](https://github.com/act10ns/slack)
 <!--END_SECTION:activity-->
 
 ### :chart_with_upwards_trend: GitHub Stats
