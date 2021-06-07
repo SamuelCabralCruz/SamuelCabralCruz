@@ -53,7 +53,7 @@ For more details, take a look to my CV ([EN](./resume-en.pdf) | [FR](./resume-fr
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/act10ns/slack/issues/201) in [act10ns/slack](https://github.com/act10ns/slack)
+1. 🗣 Commented on [#6473](https://github.com/renovatebot/renovate/issues/6473) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
 <!--END_SECTION:activity-->
 
 ### :chart_with_upwards_trend: GitHub Stats
