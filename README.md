@@ -53,7 +53,7 @@ For more details, take a look to my CV ([EN](./resume-en.pdf) | [FR](./resume-fr
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6473](https://github.com/renovatebot/renovate/issues/6473) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+1. ❗️ Opened issue [#458](https://github.com/probot/settings/issues/458) in [probot/settings](https://github.com/probot/settings)
 <!--END_SECTION:activity-->
 
 ### :chart_with_upwards_trend: GitHub Stats
