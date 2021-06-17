@@ -53,7 +53,7 @@ For more details, take a look to my CV ([EN](./resume-en.pdf) | [FR](./resume-fr
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10422](https://github.com/renovatebot/renovate/issues/10422) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+1. ❗️ Opened issue [#532](https://github.com/mgechev/revive/issues/532) in [mgechev/revive](https://github.com/mgechev/revive)
 <!--END_SECTION:activity-->
 
 ### :chart_with_upwards_trend: GitHub Stats
