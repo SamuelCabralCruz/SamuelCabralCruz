@@ -51,16 +51,10 @@ For more details, take a look to my CV ([EN](./resume-en.pdf) | [FR](./resume-fr
 
 ---
 
-### :zap: Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#532](https://github.com/mgechev/revive/issues/532) in [mgechev/revive](https://github.com/mgechev/revive)
-<!--END_SECTION:activity-->
-
 ### :chart_with_upwards_trend: GitHub Stats
 
-![SamuelCabralCruz's GitHub Stats](https://github-readme-stats-one-silk.vercel.app/api?username=SamuelCabralCruz&theme=cobalt&show_icons=true&count_private=true)
+![SamuelCabralCruz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelCabralCruz&theme=cobalt&show_icons=true&count_private=true)
 
-![SamuelCabralCruz's Top Languages](https://github-readme-stats-one-silk.vercel.app/api/top-langs/?username=SamuelCabralCruz&layout=compact)
+![SamuelCabralCruz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCabralCruz&layout=compact)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSamuelCabralCruz%2FSamuelCabralCruz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
