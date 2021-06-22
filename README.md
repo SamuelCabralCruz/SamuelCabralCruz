@@ -26,6 +26,7 @@ other nice ideas can be found here: https://www.youtube.com/watch?t=107&v=n6d4KH
 <img align="left" style="padding-right: 12px" alt="AWS" width="32px" src="https://github.com/github/explore/raw/main/topics/aws/aws.png" />
 <img align="left" style="padding-right: 12px" alt="Clojure" width="32px" src="https://github.com/github/explore/raw/main/topics/clojure/clojure.png" />
 <img align="left" style="padding-right: 12px" alt="Docker" width="32px" src="https://github.com/github/explore/raw/main/topics/docker/docker.png" />
+<img align="left" style="padding-right: 12px" alt="Docker" width="32px" src="https://github.com/github/explore/raw/main/topics/go/go.png" />
 <img align="left" style="padding-right: 12px" alt="GraphQL" width="32px" src="https://github.com/github/explore/raw/main/topics/graphql/graphql.png" />
 <img align="left" style="padding-right: 12px" alt="Java" width="32px" src="https://github.com/github/explore/raw/main/topics/java/java.png" />
 <img align="left" style="padding-right: 12px" alt="Javascript" width="32px" src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" />
