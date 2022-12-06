@@ -26,6 +26,7 @@ other nice ideas can be found here: https://www.youtube.com/watch?t=107&v=n6d4KH
 <img align="left" style="padding-right: 12px" alt="AWS" width="32px" src="https://github.com/github/explore/raw/main/topics/aws/aws.png" />
 <img align="left" style="padding-right: 12px" alt="Clojure" width="32px" src="https://github.com/github/explore/raw/main/topics/clojure/clojure.png" />
 <img align="left" style="padding-right: 12px" alt="Docker" width="32px" src="https://github.com/github/explore/raw/main/topics/docker/docker.png" />
+<img align="left" style="padding-right: 12px" alt="Docker" width="32px" src="https://github.com/github/explore/raw/main/topics/go/go.png" />
 <img align="left" style="padding-right: 12px" alt="GraphQL" width="32px" src="https://github.com/github/explore/raw/main/topics/graphql/graphql.png" />
 <img align="left" style="padding-right: 12px" alt="Java" width="32px" src="https://github.com/github/explore/raw/main/topics/java/java.png" />
 <img align="left" style="padding-right: 12px" alt="Javascript" width="32px" src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" />
@@ -46,20 +47,10 @@ other nice ideas can be found here: https://www.youtube.com/watch?t=107&v=n6d4KH
 [<img class="cr-badges-full-badge__img" src="https://images.youracclaim.com/size/220x220/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner" width="110" height="110">](https://www.youracclaim.com/badges/0055d10f-68d3-4adf-9d0b-52edb83cf74b/public_url)
 
 
-For more details, take a look to my CV ([EN](./resume-en.pdf) | [FR](./resume-fr.pdf))
+For more details, here is my resume ([EN](./resume-en.pdf) | [FR](./resume-fr.pdf))
 
 ---
 
-### :zap: Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#737](https://github.com/jpatokal/openflights/pull/737) in [jpatokal/openflights](https://github.com/jpatokal/openflights)
-<!--END_SECTION:activity-->
-
-### :chart_with_upwards_trend: GitHub Stats
-
-![SamuelCabralCruz's GitHub Stats](https://github-readme-stats-one-silk.vercel.app/api?username=SamuelCabralCruz&theme=cobalt&show_icons=true&count_private=true)
-
-![SamuelCabralCruz's Top Languages](https://github-readme-stats-one-silk.vercel.app/api/top-langs/?username=SamuelCabralCruz&layout=compact)
+![SamuelCabralCruz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelCabralCruz&theme=cobalt&show_icons=true&count_private=true) ![SamuelCabralCruz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCabralCruz&layout=compact)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSamuelCabralCruz%2FSamuelCabralCruz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
