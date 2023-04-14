@@ -49,6 +49,7 @@ other nice ideas can be found here: https://www.youtube.com/watch?t=107&v=n6d4KH
 [<img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png" alt="Professional Scrum Developer™ I (PSD I)" width="110" height="110">](https://www.youracclaim.com/badges/146d178e-787b-49a4-a31c-6c0b3127c64a/public_url)
 [<img class="cr-badges-full-badge__img" src="https://images.credly.com/images/78c2bf96-9468-40ac-aee7-3eac9d79a6d5/image.png" alt="Professional Scrum™ with Kanban I (PSK I)" width="110" height="110">](https://www.credly.com/badges/124d2a99-8a70-41f4-a86e-9c20ce96dd37/public_url)
 [<img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" alt="Professional Scrum Product Owner™ I (PSPO I)" width="110" height="110">](https://www.credly.com/badges/ec3cd2b7-336a-42c5-9b0a-0d0e67d20500/public_url)
+[<img class="cr-badges-full-badge__img" src="./images/devOpsFoundation.png" alt="DevOps Foundation® Certification" height="110">](./certificate/devOpsFoundationCertificate.pdf)
 
 For more details, here is my resume ([EN](./resume-en.pdf) | [FR](./resume-fr.pdf))
 
