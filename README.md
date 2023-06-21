@@ -45,6 +45,7 @@ other nice ideas can be found here: https://www.youtube.com/watch?t=107&v=n6d4KH
 ### Certifications
 
 [<img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="110" height="110">](https://www.youracclaim.com/badges/0055d10f-68d3-4adf-9d0b-52edb83cf74b/public_url)
+[<img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="110" height="110">](https://www.youracclaim.com/badges/5d90977e-d1bb-45aa-9bc0-9869adb1c486/public_url)
 [<img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" alt="Professional Scrum Master™ I (PSM I)" width="110" height="110">](https://www.youracclaim.com/badges/10a316e4-c12b-4b5d-9f31-9ee156a84fd2/public_url)
 [<img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png" alt="Professional Scrum Developer™ I (PSD I)" width="110" height="110">](https://www.youracclaim.com/badges/146d178e-787b-49a4-a31c-6c0b3127c64a/public_url)
 [<img class="cr-badges-full-badge__img" src="https://images.credly.com/images/78c2bf96-9468-40ac-aee7-3eac9d79a6d5/image.png" alt="Professional Scrum™ with Kanban I (PSK I)" width="110" height="110">](https://www.credly.com/badges/124d2a99-8a70-41f4-a86e-9c20ce96dd37/public_url)
