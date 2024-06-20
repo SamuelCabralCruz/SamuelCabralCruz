@@ -2,7 +2,7 @@
 
 ### I'm a problem solver and software engineer living in Québec, Canada.
 
-- 🔭 I’m currently working at **Ingeno**.
+- 🔭 I’m currently working at **Ticketmaster**.
 
 <!--
 **SamuelCabralCruz/SamuelCabralCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
