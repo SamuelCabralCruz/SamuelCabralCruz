@@ -53,7 +53,7 @@ other nice ideas can be found here: https://www.youtube.com/watch?t=107&v=n6d4KH
 [<img class="cr-badges-full-badge__img" src="./images/devOpsFoundation.png" alt="DevOps Foundation® Certification" height="110">](./certificate/devOpsFoundation.pdf)
 [<img class="cr-badges-full-badge__img" src="./images/siteReliabilityEngineeringFoundation.png" alt="Site Reliability Engineering (SRE) FoundationSM Certification" height="110">](./certificate/siteReliabilityEngineeringFoundation.pdf)
 
-For more details, here is my resume ([EN](./resume-en.pdf) | [FR](./resume-fr.pdf))
+For more details, here is my [resume](./resume.pdf).
 
 ---
 
