@@ -29,7 +29,7 @@ other nice ideas can be found here: https://www.youtube.com/watch?t=107&v=n6d4KH
 <img style="padding-right: 12px" alt="Backstage" title="Backstage" width="32px" src="https://cdn.simpleicons.org/backstage" />
 <img style="padding-right: 12px" alt="Claude" title="Claude" width="32px" src="https://cdn.simpleicons.org/claude/D97757" />
 <img style="padding-right: 12px" alt="Docker" title="Docker" width="32px" src="https://github.com/github/explore/raw/main/topics/docker/docker.png" />
-<img style="padding-right: 12px" alt="GitHub Actions" title="GitHub Actions" width="32px" src="https://github.com/github/explore/raw/main/topics/actions/actions.png" />
+<img style="padding-right: 12px" alt="GitHub Actions" title="GitHub Actions" width="32px" src="./images/actions.png" />
 <img style="padding-right: 12px" alt="Go" title="Go" width="32px" src="https://github.com/github/explore/raw/main/topics/go/go.png" />
 <img style="padding-right: 12px" alt="Grafana" title="Grafana" width="32px" src="https://cdn.simpleicons.org/grafana" />
 <img style="padding-right: 12px" alt="GraphQL" title="GraphQL" width="32px" src="https://github.com/github/explore/raw/main/topics/graphql/graphql.png" />
@@ -38,7 +38,6 @@ other nice ideas can be found here: https://www.youtube.com/watch?t=107&v=n6d4KH
 <img style="padding-right: 12px" alt="Istio" title="Istio" width="32px" src="https://cdn.simpleicons.org/istio" />
 <img style="padding-right: 12px" alt="Java" title="Java" width="32px" src="https://github.com/github/explore/raw/main/topics/java/java.png" />
 <img style="padding-right: 12px" alt="Kafka" title="Kafka" width="32px" src="https://cdn.simpleicons.org/apachekafka/ffffff" />
-<img style="padding-right: 12px" alt="Kiro" title="Kiro" width="32px" src="./images/kiro.png" />
 <img style="padding-right: 12px" alt="Kubernetes" title="Kubernetes" width="32px" src="https://github.com/github/explore/raw/main/topics/kubernetes/kubernetes.png" />
 <img style="padding-right: 12px" alt="LaTeX" title="LaTeX" width="32px" src="https://github.com/github/explore/raw/main/topics/latex/latex.png" />
 <img style="padding-right: 12px" alt="mise" title="mise" width="32px" src="https://mise.jdx.dev/logo-dark.svg" />
@@ -50,7 +49,7 @@ other nice ideas can be found here: https://www.youtube.com/watch?t=107&v=n6d4KH
 <img style="padding-right: 12px" alt="React" title="React" width="32px" src="https://github.com/github/explore/raw/main/topics/react/react.png" />
 <img style="padding-right: 12px" alt="Spring Boot" title="Spring Boot" width="32px" src="https://cdn.simpleicons.org/springboot" />
 <img style="padding-right: 12px" alt="Svelte" title="Svelte" width="32px" src="https://github.com/github/explore/raw/main/topics/svelte/svelte.png" />
-<img style="padding-right: 12px" alt="Terraform" title="Terraform" width="32px" src="https://github.com/github/explore/raw/main/topics/terraform/terraform.png" />
+<img style="padding-right: 12px" alt="Terraform" title="Terraform" width="32px" src="./images/terraform.png" />
 <img style="padding-right: 12px" alt="TypeScript" title="TypeScript" width="32px" src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" />
 </p>
 
